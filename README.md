@@ -1,6 +1,6 @@
 <h3 align="center">A passionate data analyst from Turkey</h3>
 
-- 🔭 I’m currently working on **data Visualisation**
+- 🔭 I’m currently working on **Data Visualisation**
 
 - 🌱 I’m currently learning **Tableau**
 
