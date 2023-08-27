@@ -8,7 +8,7 @@
 
 ###
 
-<h2 align="left">🔭 I’m currently working on Data Visualisation<br>📚 I’m currently learning Tableau</h2>
+<h2 align="left">🔭 I’m currently working on Data Transformation<br>📚 I’m currently learning dbt (Data Build Tool)</h2>
 
 ###
 
